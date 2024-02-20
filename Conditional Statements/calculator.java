@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// calculator using switch statements
+
 public class calculator {
 
     public static void main(String[] args) {
